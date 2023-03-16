@@ -1,2 +1,3 @@
-fastapi==0.70.0
+fastapi
+requests
 uvicorn==0.13
